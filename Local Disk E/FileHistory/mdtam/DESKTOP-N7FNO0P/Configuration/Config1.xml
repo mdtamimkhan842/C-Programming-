@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>mdtam</UserName>
+  <FriendlyName>mdtam</FriendlyName>
+  <PCName>DESKTOP-N7FNO0P</PCName>
+  <UserId>9f1687c7-0a1f-4343-9257-24a0eaf5d2d7</UserId>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\mdtam\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*e25b5812-be88-4bd9-94b0-29233477b6c3</LibraryName>
+    <Folder>C:\Users\mdtam\Pictures\Saved Pictures</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\mdtam\Videos</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*2b20df75-1eda-4039-8097-38798227d5b7</LibraryName>
+    <Folder>C:\Users\mdtam\Pictures\Camera Roll</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\mdtam\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\mdtam\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\mdtam\.cache</UserFolder>
+  <UserFolder>C:\Users\mdtam\Searches</UserFolder>
+  <UserFolder>C:\Users\mdtam\3D Objects</UserFolder>
+  <UserFolder>C:\Users\mdtam\Desktop</UserFolder>
+  <UserFolder>C:\Users\mdtam\OneDrive</UserFolder>
+  <UserFolder>C:\Users\mdtam\Contacts</UserFolder>
+  <UserFolder>C:\Users\mdtam\Pictures</UserFolder>
+  <UserFolder>C:\Users\mdtam\Favorites</UserFolder>
+  <UserFolder>C:\Users\mdtam\Videos</UserFolder>
+  <UserFolder>C:\Users\mdtam\Music</UserFolder>
+  <UserFolder>C:\Users\mdtam\Downloads</UserFolder>
+  <UserFolder>C:\Users\mdtam\Documents</UserFolder>
+  <UserFolder>C:\Users\mdtam\Links</UserFolder>
+  <UserFolder>C:\Users\mdtam\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\mdtam\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\mdtam\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\mdtam\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>597484113</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>448113084</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>DISABLED</DPStatus>
+  <Target>
+    <TargetName>New Volume (E:)</TargetName>
+    <TargetUrl>E:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{960a5a93-0000-0000-0000-402526000000}\</TargetVolumePath>
+    <TargetDriveType>FIXED</TargetDriveType>
+    <TargetConfigPath1>mdtam\DESKTOP-N7FNO0P\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>mdtam\DESKTOP-N7FNO0P\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>mdtam\DESKTOP-N7FNO0P\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>mdtam\DESKTOP-N7FNO0P\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>mdtam\DESKTOP-N7FNO0P\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>
